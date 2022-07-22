@@ -10,3 +10,4 @@ Use docker-compose.yml to start all the containers.
 ```sh
 docker-compose up -d
 ```
+If the image for nodeapp is not build, it'll build it. Otherwise, it'll just start the container
